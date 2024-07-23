@@ -1,0 +1,60 @@
+#NAME	SampleName	SampleType	Age (Year)	Age Range	Gender	Height (cm)	Weight (Kg)	BMI	BMI Range	Sample Location	Type of tumor or polyp morphology	Differentiation	Carcinoembryonic Antigen (ng/mL)	CA19-9 (U/mL)	CRP	ESR (mm/hour)	Fecal Occult Blood (iFOB)	Fast blood sugar (mg/dL)	1,25-Hydroxy Vitamin D (ng/mL)	Family history of CRC	Fast blood sugar (mg/dL)
+S95	H1	Healthy	71	70-79	Female	168	82	29.05328798	Overweight	Descending colon	None	None	0.1	0.1	5.9	37	Negative	120	40	No	120
+S96	H2	Healthy	75	70-79	Female	157	62	25.15315023	Overweight	Transverse colon	None	None	2.9	23	0.9	12	Positive	117	44	Yes	117
+S97	H3	Healthy	49	40-49	Female	162	74	28.1969212	Overweight	Transverse colon	None	None	0.6	6.8	10.9	19	Positive	105	34	No	105
+S99	H5	Healthy	58	50-59	Male	155	90	37.46097815	Obesity	Descending colon	None	None	1.52	21	4.1	18	Negative	101	37	No	101
+S100	H6	Healthy	76	70-79	Male	155	72	29.96878252	Overweight	Descending colon	None	None	1.3	28	0.5	20	Negative	95	40	No	95
+S101	H7	Healthy	58	50-59	Male	160	63	24.609375	Healthy Weight	Descending colon	None	None	0.6	39	1	10	Negative	103	7.9	No	103
+S102	H8	Healthy	63	60-69	Male	161	75	28.9340689	Overweight	Sigmoid colon	None	None	0.1	38	1.8	37	Negative	100	28	No	100
+S103	H9	Healthy	76	70-79	Male	168	70	24.8015873	Healthy Weight	Sigmoid colon	None	None	1.1	45	1.7	24	Trace	109	92	No	109
+S104	H10	Healthy	79	70-79	Female	155	78	32.46618106	Obesity	Descending colon	None	None	1.6	46	5	24	Negative	118	49	No	118
+S105	H11	Healthy	79	70-79	Female	158	75	30.0432623	Obesity	Transverse colon	None	None	0.7	24	15	20	Negative	86	25	No	86
+S106	H12	Healthy	65	60-69	Male	148	74	33.78378378	Obesity	Sigmoid colon	None	None	0.2	43	0.6	6	Positive	89	19	No	89
+S107	H13	Healthy	54	50-59	Male	160	80	31.25	Obesity	Sigmoid colon	None	None	1.8	23	3.5	13	Negative	85	57	No	85
+S108	H14	Healthy	69	60-69	Female	150	73	32.44444444	Obesity	Transverse colon	None	None	0.4	18	2.8	14	Negative	83	62	No	83
+S109	H15	Healthy	71	70-79	Female	160	100	39.0625	Obesity	Sigmoid colon	None	None	5.5	28	10.7	65	Positive	90	73	Yes	90
+S110	H16	Healthy	75	70-79	Female	175	80	26.12244898	Overweight	Rectum	None	None	0.7	16	0.5	9	Positive	119	10	No	119
+S111	H17	Healthy	42	40-49	Female	168	72	25.51020408	Overweight	Rectum	None	None	5.7	8.1	3.7	4	Positive	92	14	No	92
+S112	H18	Healthy	65	60-69	Male	175	85	27.75510204	Overweight	Transverse colon	None	None	1.9	8.1	5.1	15	Negative	87	29	No	87
+S113	H19	Healthy	54	50-59	Male	178	80	25.2493372	Overweight	Descending colon	None	None	1.6	27	0.5	10	Positive	89	18	No	89
+S114	H20	Healthy	69	60-69	Female	160	86	33.59375	Obesity	Sigmoid colon	None	None	2.7	2.3	2.8	5	Negative	99	19	No	99
+S115	CA1	CancerAdjacent	71	70-79	Female	150	50	22.22222222	Healthy Weight	Sigmoid colon	Adenocarcinoma	Well to Moderate	14	0.3	1.3	13	Positive	93	19	No	93
+S116	CA2	CancerAdjacent	75	70-79	Female	162	51	19.43	Healthy Weight	Rectum	Adenocarcinoma	Well to Moderate	250	500	58	93	Positive	94	47	No	94
+S117	CA3	CancerAdjacent	49	40-49	Female	160	78	30.46875	Obesity	Descending colon	Adenocarcinoma	Well to Moderate	0.93	35	1.9	21	Positive	94	21	No	94
+S118	CA4	CancerAdjacent	62	60-69	Male	170	90	31.14186851	Obesity	Rectum	Adenocarcinoma	Well to Moderate	4.2	3	5.2	30	Positive	116	36	No	116
+S119	CA5	CancerAdjacent	58	50-59	Male	160	50	19.53125	Healthy Weight	Sigmoid colon	Adenocarcinoma	Well to Moderate	22	7.9	6.7	15	Positive	101	19	No	101
+S120	CA6	CancerAdjacent	76	70-79	Male	155	70	29.13631634	Overweight	Sigmoid colon	Adenocarcinoma	Well to Moderate	34	42	60	39	Positive	84	25	No	84
+S121	APA7	Adenomatous Polyps Adjacent	58	50-59	Male	163	80	30.1102789	Obesity	Sigmoid colon	Adenomatous Polyps	Tubular Adenoma	6.8	23.5	11	42	Positive	142	14	No	142
+S122	CA8	CancerAdjacent	76	70-79	Male	170	66	22.83737024	Healthy Weight	Rectum	Adenocarcinoma	Well to Moderate	1.5	24.7	81	45	Positive	131	27	No	131
+S123	CA9	CancerAdjacent	63	60-69	Male	164	81	30.11600238	Obesity	Transverse colon	Adenocarcinoma	Well to Moderate	11.4	55.6	14	47	Positive	119	19.4	No	119
+S124	APA10	Adenomatous Polyps Adjacent	79	70-79	Female	166	79	28.66889244	Overweight	Transverse colon	Adenomatous Polyps	Tubular Adenoma	33.4	64.5	19	62	Positive	99	30.4	No	99
+S125	CA11	CancerAdjacent	79	70-79	Female	162	82	31.24523701	Obesity	Transverse colon	Adenocarcinoma	Well to Moderate	18.4	22.4	3.7	12	Positive	104	14.6	Yes	104
+S126	CA12	CancerAdjacent	65	60-69	Male	171	91	31.12068671	Obesity	Rectum	Adenocarcinoma	Well to Moderate	7.2	30.5	4.8	24	Positive	79	36.4	No	79
+S127	APA13	Adenomatous Polyps Adjacent	54	50-59	Male	173	81	27.06405159	Overweight	Sigmoid colon	Adenomatous Polyps	Villous Adenoma	5.9	28.4	15	67	Positive	111	17.4	No	111
+S128	APA14	Adenomatous Polyps Adjacent	69	60-69	Female	167	74	26.53375883	Overweight	Descending colon	Adenomatous Polyps	Tubulovilluos Adenoma	18.5	61.7	21	75	Positive	95	22.5	No	95
+S129	CA15	CancerAdjacent	71	70-79	Female	152	56	24.23822715	Healthy Weight	Sigmoid colon	Adenocarcinoma	Well to Moderate	10	0.1	3.4	13	Positive	93	28	Yes	93
+S130	CA16	CancerAdjacent	75	70-79	Female	167	50	17.92821543	Underweight	Rectum	Adenocarcinoma	Well to Moderate	195	344	43	101	Positive	96	18	No	96
+S131	CA17	CancerAdjacent	42	40-49	Female	157	75	30.42719786	Obesity	Descending colon	Adenocarcinoma	Well to Moderate	0.6	24	3.1	21	Positive	94	26	Yes	94
+S132	CA18	CancerAdjacent	65	60-69	Male	167	88	31.55365915	Obesity	Rectum	Adenocarcinoma	Well to Moderate	83	119	8.9	28	Positive	126	10.8	No	126
+S133	APA19	Adenomatous Polyps Adjacent	54	50-59	Male	175	81	26.44897959	Overweight	Sigmoid colon	Adenomatous Polyps	Tubulovilluos Adenoma	14.6	143.4	47	95	Positive	108	38.7	Yes	108
+S134	APA20	Adenomatous Polyps Adjacent	69	60-69	Female	160	90	35.15625	Obesity	Descending colon	Adenomatous Polyps	Villous Adenoma	49	94.1	10.5	33	Positive	85	21.6	No	85
+S135	CT1	CancerTumor	71	70-79	Female	150	50	22.22222222	Healthy Weight	Sigmoid colon	Adenocarcinoma	Well to Moderate	14	0.3	1.3	13	Positive	93	19	No	93
+S136	CT2	CancerTumor	75	70-79	Female	162	51	19.43	Healthy Weight	Rectum	Adenocarcinoma	Well to Moderate	250	500	58	93	Positive	94	47	No	94
+S137	CT3	CancerTumor	49	40-49	Female	160	78	30.46875	Obesity	Descending colon	Adenocarcinoma	Well to Moderate	0.93	35	1.9	21	Positive	94	21	No	94
+S138	CT4	CancerTumor	62	60-69	Male	170	90	31.14186851	Obesity	Rectum	Adenocarcinoma	Well to Moderate	4.2	3	5.2	30	Positive	116	36	No	116
+S139	CT5	CancerTumor	58	50-59	Male	160	50	19.53125	Healthy Weight	Sigmoid colon	Adenocarcinoma	Well to Moderate	22	7.9	6.7	15	Positive	101	19	No	101
+S140	CT6	CancerTumor	76	70-79	Male	155	70	29.13631634	Overweight	Sigmoid colon	Adenocarcinoma	Well to Moderate	34	42	60	39	Positive	84	25	No	84
+S141	AP7	Adenomatous Polyps	58	50-59	Male	163	80	30.1102789	Obesity	Sigmoid colon	Adenomatous Polyps	Tubular Adenoma	6.8	23.5	11	42	Positive	142	14	No	142
+S142	CT8	CancerTumor	76	70-79	Male	170	66	22.83737024	Healthy Weight	Rectum	Adenocarcinoma	Well to Moderate	1.5	24.7	81	45	Positive	131	27	No	131
+S143	CT9	CancerTumor	63	60-69	Male	164	81	30.11600238	Obesity	Transverse colon	Adenocarcinoma	Well to Moderate	11.4	55.6	14	47	Positive	119	19.4	No	119
+S144	AP10	Adenomatous Polyps	79	70-79	Female	166	79	28.66889244	Overweight	Transverse colon	Adenomatous Polyps	Tubular Adenoma	33.4	64.5	19	62	Positive	99	30.4	No	99
+S145	CT11	CancerTumor	79	70-79	Female	162	82	31.24523701	Obesity	Transverse colon	Adenocarcinoma	Well to Moderate	18.4	22.4	3.7	12	Positive	104	14.6	Yes	104
+S146	CT12	CancerTumor	65	60-69	Male	171	91	31.12068671	Obesity	Rectum	Adenocarcinoma	Well to Moderate	7.2	30.5	4.8	24	Positive	79	36.4	No	79
+S147	AP13	Adenomatous Polyps	54	50-59	Male	173	81	27.06405159	Overweight	Sigmoid colon	Adenomatous Polyps	Villous Adenoma	5.9	28.4	15	67	Positive	111	17.4	No	111
+S148	AP14	Adenomatous Polyps	69	60-69	Female	167	74	26.53375883	Overweight	Descending colon	Adenomatous Polyps	Tubulovilluos Adenoma	18.5	61.7	21	75	Positive	95	22.5	No	95
+S149	CT15	CancerTumor	71	70-79	Female	152	56	24.23822715	Healthy Weight	Sigmoid colon	Adenocarcinoma	Well to Moderate	10	0.1	3.4	13	Positive	93	28	Yes	93
+S150	CT16	CancerTumor	75	70-79	Female	167	50	17.92821543	Underweight	Rectum	Adenocarcinoma	Well to Moderate	195	344	43	101	Positive	96	18	No	96
+S151	CT17	CancerTumor	42	40-49	Female	157	75	30.42719786	Obesity	Descending colon	Adenocarcinoma	Well to Moderate	0.6	24	3.1	21	Positive	94	26	Yes	94
+S152	CT18	CancerTumor	65	60-69	Male	167	88	31.55365915	Obesity	Rectum	Adenocarcinoma	Well to Moderate	83	119	8.9	28	Positive	126	10.8	No	126
+S153	AP19	Adenomatous Polyps	54	50-59	Male	175	81	26.44897959	Overweight	Sigmoid colon	Adenomatous Polyps	Tubulovilluos Adenoma	14.6	143.4	47	95	Positive	108	38.7	Yes	108
+S154	AP20	Adenomatous Polyps	69	60-69	Female	160	90	35.15625	Obesity	Descending colon	Adenomatous Polyps	Villous Adenoma	49	94.1	10.5	33	Positive	85	21.6	No	85
